@@ -357,6 +357,6 @@ print("\n")
 # 1) Python documentation - Numeric Types: int, float.
 # 2) Python documentation - Boolean Type: bool.
 # 3) W3Schools: Python Arithmetic, Relational, and Logical Operators.
-# 4) Apuntes de la clase del M.C. Carlos Antonio Tovar sobre validaciones numéricas.
+# 4) Videos tutoriales en YouTube: Canal "Fazt", curso de Python básico (Tema: Tipos de datos, int, float y booleanos).
 # 5) "Aprende con Alf" - Tutorial básico de Python (Tipos de datos y condicionales).
 # ====================================================================
