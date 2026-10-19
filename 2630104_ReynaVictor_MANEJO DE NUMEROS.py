@@ -344,12 +344,12 @@ print("\n")
 # CONCLUSIONES
 # Esta tarea me enseñó que mezclar enteros (int) y flotantes (float) es 
 # fundamental en problemas de la vida real, como en nóminas o finanzas. 
-# Me quedó súper claro que una simple comparación como > o == se convierte
-# automáticamente en un booleano, y eso nos permite tomar decisiones con 'if'. 
-# Aprendí por qué las validaciones previas son tan importantes; por ejemplo,
+# Me quedó claro que una simple comparación como > o == se convierte
+# automáticamente en un booleano, y eso permite que se tomen decisiones con 'if'. 
+# Aprendí por qué las validaciones previas son muy importantes como por ejemplo,
 # si no revisamos que la altura o el sueldo sean mayores a cero, el programa 
 # fallará por una división matemática imposible. Combinar lógicas con AND/OR
-# reduce muchísimo el código en lugar de hacer muchos IFs anidados.
+# reduce muchísimo el código en lugar de hacer muchos IFs.
 # ====================================================================
 
 # ====================================================================
